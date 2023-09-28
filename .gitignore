@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Virtual environment
+venv/
+.env
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Compiled source code
+*.class
+*.dll
+*.jar
+*.war
+*.ear
+*.so
+*.dylib
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# IDE-specific files and directories
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Temporary files
+*~
+*.swp
+*.swo
+*.swn
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Other project-specific files and directories
+config.yaml
+secrets.json
